@@ -27,7 +27,7 @@ Me interesa explorar las fronteras entre internet, estética, tecnología y crea
 
 <h2>🎨 Proyectos de Diseño</h2>
 
-- **FackMac — Branding y ropa técnica**  
+- **Metro21**  
 Proyecto urbano, social y artístico que busca visibilizar realidades locales a través de intervenciones gráficas, campañas, exposiciones y contenido digital.
 - Diseño de identidad visual
 - Dirección creativa de campañas
